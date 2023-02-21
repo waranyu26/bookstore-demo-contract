@@ -1,0 +1,22 @@
+{
+  "image": "https://bookstore-demo-bucket.s3.amazonaws.com/images/0.png",
+  "description": "My first book",
+  "attributes": [
+    {
+      "trait_type": "title",
+      "value": "Test Book 01"
+    },
+    {
+      "trait_type": "published_date",
+      "value": "15/12/2000"
+    },
+    {
+      "trait_type": "publisher",
+      "value": "Book Publishing"
+    },
+    {
+      "trait_type": "author",
+      "value": "some author"
+    }
+  ]
+}

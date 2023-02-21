@@ -1,0 +1,22 @@
+{
+  "image": "https://bookstore-demo-bucket.s3.amazonaws.com/images/1.png",
+  "description": "My second book",
+  "attributes": [
+    {
+      "trait_type": "title",
+      "value": "Test Book 02"
+    },
+    {
+      "trait_type": "published_date",
+      "value": "17/12/2010"
+    },
+    {
+      "trait_type": "publisher",
+      "value": "Book Publishing"
+    },
+    {
+      "trait_type": "author",
+      "value": "any author"
+    }
+  ]
+}
